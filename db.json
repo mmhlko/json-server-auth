@@ -1,0 +1,199 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "maxim@mail.ru",
+      "name": "maxim"
+    },
+    {
+      "email": "vadim@mail.ru",
+      "password": "$2a$10$s0aC9ozZcjglicG9LWdrku50YEgZZh3BA.b6g.KVKItfRbc9v6dZi",
+      "id": "MDj8rnc"
+    },
+    {
+      "email": "ivan@mail.ru",
+      "password": "$2a$10$JIQMCrCFYIAc6aLm6iS.4eSvKwrTg8HVjhOfC66FgACQtZnFSN79m",
+      "id": "X_B0KCI"
+    },
+    {
+      "email": "maximka@mail.ru",
+      "password": "$2a$10$e20Jt8MtbgDfGmpiPBMtN.c8BSA2poQxcIB9Jy9LFZ6gg2v/ig70q",
+      "id": "5KQiSUX"
+    },
+    {
+      "email": "cola@mail.ru",
+      "password": "$2a$10$yOoP.cRtmmGLyjci/uoV/u2ViN.TrxTQTzsdWCBu/IEav30O7/81O",
+      "id": "yBzBvmO"
+    },
+    {
+      "email": "bob@mail.ru",
+      "password": "$2a$10$s3QkP3R6.kn6wyUm4JwjK.aT99iFK0OMx2tEQ1X6OHcqJbmyr7zee",
+      "id": "fsmZplY"
+    },
+    {
+      "email": "bob1@mail.ru",
+      "password": "$2a$10$3DFUSYpUFmp9AjcXYQcFHexO1HgMk1UnhPLS2KNPktjWv8//3.7dC",
+      "id": "NcVQluY"
+    },
+    {
+      "email": "bob2@mail.ru",
+      "password": "$2a$10$bc8CObtIr6/L85hR/EBHzuHy2.VC.MAY33M0fl7J0zQH6wcrZ4pxK",
+      "id": "J8F0g_G"
+    },
+    {
+      "email": "bill@mail.ru",
+      "password": "$2a$10$FMEg1w5ljqCZk8jgZ9ZmaeCyDUH1IHQuMp9ojdMbCfVgfR5jepkqK",
+      "id": "gdTYPrW"
+    },
+    {
+      "email": "john@mail.ru",
+      "password": "$2a$10$7tp32ZvtIPqhPA/Bt/HuVuzpVbRholp6H/ATkQYQZFP3JVTQ3RwNi",
+      "id": "Aq25xnD"
+    },
+    {
+      "email": "john12@mail.ru",
+      "password": "$2a$10$IdkuDTqDPV5M0Ze2Pco6ReMra8hjIgI3HMeRAIAlFh7o0cToJFXqq",
+      "id": "0TfXN3N"
+    },
+    {
+      "email": "john13@mail.ru",
+      "password": "$2a$10$TTOG8XBEz73a3LvBvRllf.9hI7OhGGYVj7OhPXcyK4mSw3hcll5de",
+      "id": "ToZKVdB"
+    },
+    {
+      "email": "maximmhl@mail.ru",
+      "password": "$2a$10$/vMxaV3aN8hpt4TsDHYC2uDy0SOmiPLF/Fi2EFWITJ5WeABY1hYLu",
+      "name": "Maxim",
+      "id": "qWBiVWH"
+    },
+    {
+      "email": "ivanl@mail.ru",
+      "password": "$2a$10$0L9AGh0AhFcy.CG0oFFXMeKnomlGeEu4Iy061pxsGUCE69cSbtu8a",
+      "name": "Ivan",
+      "id": "5ZQAMy3"
+    },
+    {
+      "email": "vlad@vlad.ru",
+      "password": "$2a$10$8UG1jxe2OuZKcecp0IIbs.XgF99yfdj/4ER.epoAESAqMFUI2HD6a",
+      "name": "Vlad",
+      "id": "l_bFhj-"
+    }
+  ],
+  "questions": [
+    {
+      "title": "Как называется еврейский Новый год?",
+      "variants": [
+        "Ханука",
+        "Йом Кипур",
+        "Кванза",
+        "Рош ха-Шана",
+        "Еврейский Новый год"
+      ],
+      "correctAnswer": 4,
+      "id": 1
+    },
+    {
+      "title": "Сколько синих полос на флаге США?",
+      "variants": [
+        "6",
+        "7",
+        "13",
+        "0",
+        "12"
+      ],
+      "correctAnswer": 4,
+      "id": 2
+    },
+    {
+      "title": "Кто из этих персонажей не дружит с Гарри Поттером?",
+      "variants": [
+        "Рон Уизли",
+        "Невилл Лонгботтом",
+        "Драко Малфой",
+        "Гермиона Грейнджер"
+      ],
+      "correctAnswer": 3,
+      "id": 3
+    },
+    {
+      "title": "Какое животное не фигурирует в китайском зодиаке?",
+      "variants": [
+        "Дракон",
+        "Кролик",
+        "Собака",
+        "Колибри",
+        "Лошадь"
+      ],
+      "correctAnswer": 4,
+      "id": 4
+    },
+    {
+      "title": "В какой стране проходили летние Олимпийские игры 2016 года?",
+      "variants": [
+        "Китай",
+        "Ирландия",
+        "Бразилия",
+        "Италия"
+      ],
+      "correctAnswer": 3,
+      "id": 5
+    },
+    {
+      "title": "Какая планета самая горячая?",
+      "variants": [
+        "Венера",
+        "Меркурий",
+        "Марс"
+      ],
+      "correctAnswer": 1,
+      "id": 6
+    },
+    {
+      "title": "Как назывался корабль капитана Джека Воробья в 'Пиратах Карибского моря'?",
+      "variants": [
+        "Мародер",
+        "Черная жемчужина",
+        "Черный питон",
+        "Слизерин"
+      ],
+      "correctAnswer": 2,
+      "id": 7
+    },
+    {
+      "title": "Какая самая редкая группа крови?",
+      "variants": [
+        "I группа",
+        "II группа",
+        "III группа",
+        "IV группа"
+      ],
+      "correctAnswer": 1,
+      "id": 8
+    },
+    {
+      "title": "Кто из этих персонажей не входит в группу друзей из сериала 'Друзья'?",
+      "variants": [
+        "Рэйчел",
+        "Джоуи",
+        "Гюнтер",
+        "Моника"
+      ],
+      "correctAnswer": 3,
+      "id": 9
+    },
+    {
+      "title": "Сколько костей в теле человека?",
+      "variants": [
+        "206",
+        "205",
+        "201",
+        "209"
+      ],
+      "correctAnswer": 1,
+      "id": 11
+    }
+  ],
+  "token": [{
+    "dsd": "12"
+  }]
+}
